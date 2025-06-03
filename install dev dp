@@ -1,0 +1,10 @@
+-Install Dev Dep:
+npm i -D @egoist/tailwindcss-icons @iconify-json/material-symbols browser-sync concurrently prettier prettier-plugin-tailwindcss tailwindcss
+
+-Setup tailwindcss
+
+-Setup working directory
+
+-setup prettier
+
+-setup scripts
